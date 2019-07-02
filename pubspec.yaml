@@ -1,11 +1,12 @@
 name: flutter_native_config
-description: A plugin to access native configuration for both Android and iOS from Flutter.
-version: 1.0.0
-author: Noor Dawod <noor@fine4.com>
+description: A new flutter plugin project.
+version: 0.0.2
+author: Noor Dawod <noor@fine47.com>
 homepage: https://github.com/noordawod/flutter_native_config
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
 
 dependencies:
   flutter:

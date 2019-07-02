@@ -1,5 +1,5 @@
 group 'com.fine47.flutter_native_config'
-version '1.0-SNAPSHOT'
+version '0.0.2-SNAPSHOT'
 
 buildscript {
     repositories {
